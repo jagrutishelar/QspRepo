@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class P1 {
+public class P1 {//P1
 	
 	static {
 		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
