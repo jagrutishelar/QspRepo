@@ -4,6 +4,7 @@ public class P2 {
 
 	public static void main(String[] args) {
 		System.out.println("from P2");
+		System.out.println("HI");
 
 	}
 
